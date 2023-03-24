@@ -1,0 +1,629 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "image": {
+            "blurhash": "jjTYCHru;;DcT;qIh5plTaKBcPBk",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/5ae6013cf78b5a000bb64022/bc80c9c4-9ead-11eb-9441-4efedaea1730_mcd_wolt_etusivu_1010x544.png"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "5ae6013cf78b5a000bb64022",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "jcQFNd;YXjgQpshrTnJAFkOXh7cR"
+          },
+          "title": "McDonald's Helsinki Kamppi",
+          "venue": {
+            "address": "Fredrikinkatu 46",
+            "badges": [],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€1.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 199,
+            "estimate": 15,
+            "estimate_range": "10-20",
+            "franchise": "",
+            "id": "5ae6013cf78b5a000bb64022",
+            "location": [
+              24.930145740509033,
+              60.16896328076366
+            ],
+            "name": "McDonald's Helsinki Kamppi",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 3,
+              "score": 8
+            },
+            "short_description": "I'm lovin' it.",
+            "show_wolt_plus": false,
+            "slug": "mcdonalds-kamppi-1",
+            "tags": [
+              "hamburger",
+              "salad",
+              "dessert"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j6YccVEl;PN3N4T6nbrb;Qt44YeY",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/630723a28b2af6d016acbd64/fd46ece8-2446-11ed-8aab-72d958f85af1_d6216e7c_d275_11ec_8c87_6a9d9c86d077_2c693dd6_743f_11ec_a81a_b2c39cc0ff17_339a414e_0fe1_11ec_98e2_1afe205a7338_40387218_d8d7_11eb_ab9c_52f0edd91b4a_9.jpg"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "630723a28b2af6d016acbd64",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "j8XbJ3;28QjecXXBllmYXz9cNHJA"
+          },
+          "template": "venue-large",
+          "title": "KotKot Punavuori",
+          "venue": {
+            "address": "Uudenmaankatu 42",
+            "badges": [],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€2.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 299,
+            "estimate": 20,
+            "estimate_range": "15-25",
+            "franchise": "",
+            "id": "630723a28b2af6d016acbd64",
+            "location": [
+              24.9358833,
+              60.16268979999999
+            ],
+            "name": "KotKot Punavuori",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 3,
+              "score": 9
+            },
+            "short_description": "Legendary fried chicken sandwich\n",
+            "show_wolt_plus": false,
+            "slug": "kotkot-punavuori",
+            "tags": [
+              "burger",
+              "chicken",
+              "homemade"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j4C8BOh58R8z4y;Z8z;q01XK;Z;K",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/634e64d21de7af7da90001da/d783f91a-be4c-11ed-bc30-16b645b73c1d_bunit12116.jpg"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "634e64d21de7af7da90001da",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "j6DVqd;;8y;;4i4hgyiZ4gTt;:8x"
+          },
+          "template": "venue-large",
+          "title": "Bunit Kamppi",
+          "venue": {
+            "address": "Urho Kekkosen katu 1",
+            "badges": [
+              {
+                "text": "Only on Wolt",
+                "variant": "secondary"
+              }
+            ],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€1.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 199,
+            "estimate": 15,
+            "estimate_range": "10-20",
+            "franchise": "",
+            "id": "634e64d21de7af7da90001da",
+            "location": [
+              24.9332275,
+              60.16915669999999
+            ],
+            "name": "Bunit Kamppi",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 3,
+              "score": 8.4
+            },
+            "short_description": "Herkulliset bunit ja bowlit!",
+            "show_wolt_plus": false,
+            "slug": "bunit-kamppi",
+            "tags": [
+              "asian",
+              "bowl",
+              "street food"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j6LX6z4ine40DKT;hq8x;Kd58hTc",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/60a25d25b9927bdcd52c517e/932230de-bd93-11ed-bada-125431cd5831_003b5b58_b805_11ed_be1a_e6dc8717dc71_picnic_list_image.jpeg"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "60a25d25b9927bdcd52c517e",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "jfOceVXK;;hRLcKYKWl4pmGFlBtC"
+          },
+          "template": "venue-large",
+          "title": "Picnic Kampintori (2.krs)",
+          "venue": {
+            "address": "Urho Kekkosen katu 1",
+            "badges": [
+              {
+                "text": "Only on Wolt",
+                "variant": "secondary"
+              }
+            ],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€1.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 199,
+            "estimate": 15,
+            "estimate_range": "10-20",
+            "franchise": "",
+            "id": "60a25d25b9927bdcd52c517e",
+            "location": [
+              24.9332274,
+              60.16915669999999
+            ],
+            "name": "Picnic Kampintori (2.krs)",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 3,
+              "score": 8.8
+            },
+            "short_description": "Tuoretta ja herkullista ruokaa",
+            "show_wolt_plus": false,
+            "slug": "picnic-kampintori-2krs",
+            "tags": [
+              "café",
+              "salad",
+              "sandwich"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j7EFGk1dcP8i0K;;SPTcfeXmTch5",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/59954a6cc3cb581d88d79d39/b4f99a40-115d-11ed-a1a8-d61828bab155_2af1b018_0117_11ed_b645_4209e6558dbf_ff2eb862_0aff_11ec_9949_7abe90defb57_fdd6a576a183072dbc5e9224e3bc0822.jpeg"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "59954a6cc3cb581d88d79d39",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "j3BEx;4y8hh4008z4X;K00;ZgOgQ"
+          },
+          "template": "venue-large",
+          "title": "King Kebab Kallio",
+          "venue": {
+            "address": "Vaasankatu 19",
+            "badges": [],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€5.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 599,
+            "estimate": 25,
+            "estimate_range": "20-30",
+            "franchise": "",
+            "id": "59954a6cc3cb581d88d79d39",
+            "location": [
+              24.95661109685898,
+              60.188470081509806
+            ],
+            "name": "King Kebab Kallio",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 3,
+              "score": 9
+            },
+            "short_description": "Kebabin aatelia",
+            "show_wolt_plus": false,
+            "slug": "king-kebab-kallio",
+            "tags": [
+              "kebab"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j1Co1G00Z4Mz;Y5aH;0i4hV3XKfK",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/563b7bf53bdf997b959cf920/e97c3f68-7125-11eb-b563-86518557ac2b_emptyname_28.jpg"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "563b7bf53bdf997b959cf920",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "j2Do9LZ2cA00X;4yX;940P00nuPc"
+          },
+          "template": "venue-large",
+          "title": "Robert's Coffee Kamppi",
+          "venue": {
+            "address": "Kampinkuja 2",
+            "badges": [
+              {
+                "text": "Only on Wolt",
+                "variant": "secondary"
+              }
+            ],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€1.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 199,
+            "estimate": 15,
+            "estimate_range": "10-20",
+            "franchise": "",
+            "id": "563b7bf53bdf997b959cf920",
+            "location": [
+              24.930338859558105,
+              60.168220846392934
+            ],
+            "name": "Robert's Coffee Kamppi",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 3,
+              "score": 8.8
+            },
+            "short_description": "Nautinnollisia kahvilaherkkuja",
+            "show_wolt_plus": false,
+            "slug": "roberts-coffee-kamppi",
+            "tags": [
+              "café",
+              "sandwich",
+              "cake"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j4ynxI;K0iTK;;;KcP8y01X;Xs8i",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/5ffdb04fe7a90de8ea353975/2610f240-3a5e-11ed-b47e-7e0f99ada29c_5b9dc56a_8253_11eb_bf9d_56ff4154864d_shutterstock_1356251171.jpg"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "5ffdb04fe7a90de8ea353975",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "j4ynxI;K0iTK;;;KcP8y01X:Xs8i"
+          },
+          "template": "venue-large",
+          "title": "Café Succès",
+          "venue": {
+            "address": "Korkeavuorenkatu 2",
+            "badges": [],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€3.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 399,
+            "estimate": 15,
+            "estimate_range": "10-20",
+            "franchise": "",
+            "id": "5ffdb04fe7a90de8ea353975",
+            "location": [
+              24.946434,
+              60.15977770000001
+            ],
+            "name": "Café Succès",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 4,
+              "score": 9.4
+            },
+            "short_description": "Leivonnaisistaan ja erityisesti korvapuusteistaan tunnettu kahvila ja leipomo.",
+            "show_wolt_plus": false,
+            "slug": "caf-succs",
+            "tags": [
+              "bakery",
+              "coffee",
+              "salad"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j7G8NUX;d3rcrJV4GAOY8zhkhXNF",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/5cd52f7af6ba58567ebc2417/e4df16344465c612e8173d682bb191c7"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "5cd52f7af6ba58567ebc2417",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "j5I9hU014P;K;KiHuXcQcy8PKBXK"
+          },
+          "template": "venue-large",
+          "title": "Tortilla House Kamppi",
+          "venue": {
+            "address": "Urho Kekkosen katu 1",
+            "badges": [
+              {
+                "text": "Only on Wolt",
+                "variant": "secondary"
+              }
+            ],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€1.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 199,
+            "estimate": 20,
+            "estimate_range": "15-25",
+            "franchise": "",
+            "id": "5cd52f7af6ba58567ebc2417",
+            "location": [
+              24.933321475982666,
+              60.16918743377195
+            ],
+            "name": "Tortilla House Kamppi",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 3,
+              "score": 8.6
+            },
+            "short_description": "Raikas meksikolainen",
+            "show_wolt_plus": false,
+            "slug": "tortilla-house-kamppi",
+            "tags": [
+              "tortilla",
+              "taco",
+              "burrito"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j5OWSk007fcQddLuJjhIHbJH4itj",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/5efdd98114d8366811bc58e1/b79160fe-bc63-11ea-b2be-5e646f7e4b7a_ab7956bb3b1112bacd46789476c9c7e3__1_.jpeg"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "5efdd98114d8366811bc58e1",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "jlLWmc4i8POX;;gOkPqGhuJRl4hl"
+          },
+          "template": "venue-large",
+          "title": "Burger King Kamppi",
+          "venue": {
+            "address": "Urho Kekkosenkatu 1",
+            "badges": [
+              {
+                "text": "Only on Wolt",
+                "variant": "secondary"
+              }
+            ],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€1.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 199,
+            "estimate": 20,
+            "estimate_range": "15-25",
+            "franchise": "",
+            "id": "5efdd98114d8366811bc58e1",
+            "location": [
+              24.9332274,
+              60.16915669999999
+            ],
+            "name": "Burger King Kamppi",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 3,
+              "score": 8.2
+            },
+            "short_description": "Liekillä grillatut hampurilaiset",
+            "show_wolt_plus": false,
+            "slug": "burger-king-kamppi",
+            "tags": [
+              "american",
+              "burger",
+              "finger food"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j9RHOyd5;;hItlkxJCkOLvOAlkgP",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/5ea6be4c66e197afbb30b7a6/eddd6802-34f1-11ed-9562-9206d74e8dbc_sky_express1973.jpg"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "5ea6be4c66e197afbb30b7a6",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "jaRImVJjX;cygNSQ8yKRTLOS8hTt"
+          },
+          "template": "venue-large",
+          "title": "Sky Express",
+          "venue": {
+            "address": "Annankatu 31",
+            "badges": [],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€1.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 199,
+            "estimate": 20,
+            "estimate_range": "15-25",
+            "franchise": "",
+            "id": "5ea6be4c66e197afbb30b7a6",
+            "location": [
+              24.93522354655768,
+              60.168252211334504
+            ],
+            "name": "Sky Express",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 3,
+              "score": 8.4
+            },
+            "short_description": "Maukasta pizzaa",
+            "show_wolt_plus": false,
+            "slug": "sky-express",
+            "tags": [
+              "hamburger",
+              "kebab",
+              "pizza"
+            ]
+          }
+        },
+        {
+          "image": {
+            "blurhash": "j3EVqd0000XLiJkQ;;;;4g4z;;Pc",
+            "url": "https://prod-wolt-venue-images-cdn.wolt.com/55475fcf7a191125b5cf6619/0293f50a-a206-11ed-b90b-f6c969288455_levant_list_image.jpeg"
+          },
+          "link": {
+            "selected_delivery_method": "homedelivery",
+            "target": "55475fcf7a191125b5cf6619",
+            "target_sort": "delivers-to",
+            "target_title": "",
+            "title": "",
+            "type": "venue-id",
+            "venue_mainimage_blurhash": "j3D8W500UO;;;;;K8zPu4S94;;X:"
+          },
+          "template": "venue-large",
+          "title": "Levant Bulevardi",
+          "venue": {
+            "address": "Bulevardi 15",
+            "badges": [
+              {
+                "text": "Only on Wolt",
+                "variant": "secondary"
+              }
+            ],
+            "categories": [],
+            "city": "",
+            "country": "FIN",
+            "currency": "EUR",
+            "delivers": true,
+            "delivery_price": "€2.99",
+            "delivery_price_highlight": false,
+            "delivery_price_int": 299,
+            "estimate": 20,
+            "estimate_range": "15-25",
+            "franchise": "",
+            "id": "55475fcf7a191125b5cf6619",
+            "location": [
+              24.93611097335815,
+              60.16433686483167
+            ],
+            "name": "Levant Bulevardi",
+            "online": true,
+            "price_range": 1,
+            "product_line": "restaurant",
+            "promotions": [],
+            "rating": {
+              "rating": 4,
+              "score": 9.2
+            },
+            "short_description": "Authentic Middle Eastern flavour",
+            "show_wolt_plus": false,
+            "slug": "levant",
+            "tags": [
+              "falafel",
+              "middle eastern",
+              "salad"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
